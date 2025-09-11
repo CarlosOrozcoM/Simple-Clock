@@ -17,6 +17,6 @@ No web server or additional compilation is needed. The clock will work immediate
 
 Project Structure
 .
-├── index.html     # The HTML structure of the application.
-├── style.css      # The CSS styles.
-└── script.js      # The JavaScript logic.
+├── index.html  # The HTML structure of the app.
+├── style.css   # The main CSS styles.
+├── script.js   # The JavaScript logic.
